@@ -10,6 +10,14 @@ Chained operations
 Clear button to reset
 Backspace button to delete
 
+## Technologies Used
+This project was built with:
+
+HTML5
+CSS3
+Vanilla JavaScript
+To get the iOS look, custom fonts and CSS animations/transforms were used. JavaScript handles the calculator logic and DOM manipulation.
+
 ## Running the Calculator
 To use the web calculator:
 
@@ -18,14 +26,6 @@ Open index.html in your browser
 Use the number and operator buttons to perform calculations
 Press = or the large display to get the result
 Press C to clear the calculator and start over
-
-## Technologies Used
-This project was built with:
-
-HTML5
-CSS3
-Vanilla JavaScript
-To get the iOS look, custom fonts and CSS animations/transforms were used. JavaScript handles the calculator logic and DOM manipulation.
 
 ## Acknowledgments
 This project was done while following the Web Development course by Brian Holt from FrontEnd Masters. You can find it here https://btholt.github.io/complete-intro-to-web-dev-v3/.
