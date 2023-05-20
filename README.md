@@ -2,6 +2,7 @@
 This project creates an iOS-themed web calculator using HTML, CSS and JavaScript. The goal was to become familiar with web development by building a simple interactive app.
 
 **Features**
+
 The calculator includes:
 
 iOS 13 styled buttons
@@ -11,6 +12,7 @@ Clear button to reset
 Backspace button to delete
 
 **Running the Calculator**
+
 To use the web calculator:
 
 Clone this repo
@@ -20,6 +22,7 @@ Press = or the large display to get the result
 Press C to clear the calculator and start over
 
 **Technologies Used**
+
 This project was built with:
 
 HTML5
