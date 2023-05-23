@@ -33,8 +33,11 @@ function calculate(){
     if (isNaN(eq.charAt(eq.length-1))) {
         return
     }
-    result = eval(eq);
+    console.log(eq);
+    let result = eval(eq);
     display.innerText = result;
+
+    eq = "";    
 };
 
 let eq = "";
